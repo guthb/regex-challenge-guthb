@@ -1,6 +1,6 @@
 #Regex
 
-1. `/((http|https)://)(?!msdn)(\S+)/`
+1. `/((http|https)://)(?!m)(\S+)/`
 
 
 #Test Strings
