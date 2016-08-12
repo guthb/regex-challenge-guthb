@@ -6,7 +6,7 @@ This lite exercise will help you gain practice in using regular expressions. Whi
 
 ### Directions
 
-It's recommended that the stude uses https://regex101.com/ when attempting to solve the problem set. Answers for each exercise should be submitted in its own Markdown file that contains the answer and at least 3 variations test strings you used to test your regex works.
+It's recommended that the student uses https://regex101.com/ when attempting to solve the problem set. Answers for each exercise should be submitted in its own Markdown file that contains the answer and at least 3 variations test strings you used to test your regex works.
 
 For example, exercise 3 the following will be included in a file named `3.md`:
 ```
