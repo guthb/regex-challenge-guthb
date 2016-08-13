@@ -6,5 +6,5 @@
 
 
 #Test Strings
-1. `billy jean`  -- pass
+1. `Billy Jean`  -- pass
 1. `billy jean`  -- does not pass
