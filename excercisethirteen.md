@@ -1,6 +1,7 @@
 #Regex
 
 1. `/ Born.*\./`
+2. `/Born.*release./`
 
 
 #Test Strings
