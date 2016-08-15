@@ -1,7 +1,8 @@
 #Regex
 
-1. `p\w+\s\w+\s\w+\n{\n(?:\s{4}p\w+\s\w+\s(?<propertyName>\w+)\s{\s\w+;\s\w+;\s}\n)+}`
+1. `/p.*\n.*\n.*(?<propertyName>PartName).*\n\s{4}.*(?<propertyId>PartId).*\n./`
 
+2. `/.*\n{\n*\n.*(?<varible>PartName).*\n\s{4}.*(?<varible2>PartId).*\n}/`
 
 #Test Strings
 `public class Part
